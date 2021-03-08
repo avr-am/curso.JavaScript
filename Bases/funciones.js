@@ -9,3 +9,4 @@ function result(number){
 var number = 22
 
 console.log(result(number))
+

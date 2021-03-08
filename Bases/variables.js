@@ -8,5 +8,6 @@ var car = {
 }
 
 var total = names + ' ' + age + ' ' + car.marca + ' ' + car.matricula
+
 console.log(total)
 
